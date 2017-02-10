@@ -98,10 +98,10 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 <textarea id='answerArea' class="form-control" rows="5"> </textarea>
  
     
-<button id='loadFAQ' class="btn btn-default">loadFAQ</button>
+<button id='loadFAQ' class="btn btn-default">Load</button>
  
     
-<button id='submitFAQ' class="btn btn-default">submitFAQ</button>
+<button id='submitFAQ' class="btn btn-default">Submit</button>
  
  
   </div>
