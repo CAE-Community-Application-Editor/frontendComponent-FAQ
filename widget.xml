@@ -96,6 +96,8 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     Question:
 <textarea id='questionArea' class="form-control" rows="3"> </textarea>
  
+ 
+<br> 
     
 <button id='submitFAQ' class="btn btn-default">Submit</button>
  
