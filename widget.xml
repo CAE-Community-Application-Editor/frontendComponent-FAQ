@@ -106,8 +106,10 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 <button id='loadFAQ' class="btn btn-default">Load</button>
  
  
-<br></br> 
-<div class="bubble question"></div> 
+<br></br>  
+<div id="entries">
+    <div class="bubble question"></div>  
+</div>
  
  
  
