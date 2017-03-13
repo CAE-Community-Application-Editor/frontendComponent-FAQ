@@ -94,7 +94,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   <div class="container" id="main-content">
 
     Question:
-<textarea id='questionArea' class="form-control" rows="5"> </textarea>
+<textarea id='questionArea' class="form-control" rows="3"> </textarea>
  
     
 <button id='submitFAQ' class="btn btn-default">Submit</button>
