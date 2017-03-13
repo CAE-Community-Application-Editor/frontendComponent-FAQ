@@ -80,7 +80,8 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   <!-- additional widget specific imports (put your own imports here as well) -->
 
  
-<link rel="stylesheet" href="https://las2peer.dbis.rwth-aachen.de/faq/css/style.css">  
+<link rel="stylesheet" href="https://las2peer.dbis.rwth-aachen.de/faq/css/style.css">   
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/css/bootstrap-select.css" rel="stylesheet">
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/js/bootstrap-select.js"></script>
 
   <!-- import the client library -->
