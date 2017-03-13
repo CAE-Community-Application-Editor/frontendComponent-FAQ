@@ -93,14 +93,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   <!-- container for actual page content -->
   <div class="container" id="main-content">
 
-    Question:
-<textarea id='questionArea' class="form-control" rows="3"> </textarea>
- 
- 
-<br><center> 
-    
-<button id='submitFAQ' class="btn btn-default">Submit</button>
- 
     
 <button id='loadFAQ' class="btn btn-default">Load FAQ</button>
 </center> 
@@ -110,6 +102,14 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  
 </div>
  
+ 
+    Question:
+<textarea id='questionArea' class="form-control" rows="3"> </textarea>
+ 
+ 
+<br><center> 
+    
+<button id='submitFAQ' class="btn btn-default">Submit</button>
  
  
   </div>
