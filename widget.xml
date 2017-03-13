@@ -103,7 +103,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 <button id='submitFAQ' class="btn btn-default">Submit</button>
  
     
-<button id='loadFAQ' class="btn btn-default">Load</button>
+<button id='loadFAQ' class="btn btn-default">Load FAQ</button>
  
  
 <br></br>  
