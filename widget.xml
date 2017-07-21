@@ -99,7 +99,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 Category: <select class="selectpicker" id="cats"> 
 </select>  
 
-<button id='loadFAQ' class="btn btn-default">Load FAQ</button>
+<button id='loadFAQ' class="btn btn-default">Load FAQ Now!</button>
 </center> 
  <br></br> 
 <div id="entries">
