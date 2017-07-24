@@ -66,7 +66,7 @@ var loadFAQ = function(){
 
 //end variable declaration
 
-  client.sendRequest("GET", "/faq", "", "", {}, false,
+  client.sendRequest("GET", "faq", "", "", {}, false,
   function(data, type) {
     data.forEach(function(entry) {
         $("#entries").append("Q: " + entry.question + " " + "A:" + entry.answer);
