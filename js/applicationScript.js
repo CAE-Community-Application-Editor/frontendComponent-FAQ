@@ -86,7 +86,8 @@ var submitFAQ = function(){
 
 //end variable declaration
 
-   var jsonContent = null;
+   var jsonContent = null; 
+ 
   client.sendRequest("POST", "", jsonContent, "text/plain", {}, false,
   function(data, type) {
     console.log(data);
