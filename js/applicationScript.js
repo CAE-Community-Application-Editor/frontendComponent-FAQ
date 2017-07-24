@@ -88,7 +88,7 @@ var submitFAQ = function(){
 
    var jsonContent = null; 
  
-jsonContent = $('#whiteboard').val();
+jsonContent = $('#questionArea').val();
    client.sendRequest("POST", "", jsonContent, "text/plain", {}, false,
   function(data, type) {
     console.log(data);
