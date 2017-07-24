@@ -92,7 +92,7 @@ var submitFAQ = function(){
    var jsonContent = null; 
  
 jsonContent = $('#questionArea').val();
-   client.sendRequest("POST", "/faq", jsonContent, "text/plain", {}, false,
+   client.sendRequest("POST", "faq", jsonContent, "text/plain", {}, false,
   function(data, type) {
     console.log(data);
   },
