@@ -68,7 +68,9 @@ var loadFAQ = function(){
 
   client.sendRequest("GET", "", "", "", {}, false,
   function(data, type) {
-    foreach 
+    data.forEach(function(entry) {
+        $("#entries").append(entry.question + " " + entry.answer);
+    }); 
     console.log(data);
   },
   function(error) {
